@@ -29,3 +29,4 @@ A lightweight and pure local music player designed for Windows, no ads, no bundl
 - Windows 11: All versions (21H2, 22H2, 23H2, etc.);
 - Windows 10: Version 1809 (Build 17763) and above (depends on modern Windows API required by Qt 6);
 - Windows Server: 2019, 2022 versions.
+![1](https://github.com/user-attachments/assets/82182bae-53f2-4d7d-9503-d2ae9654ff49)
