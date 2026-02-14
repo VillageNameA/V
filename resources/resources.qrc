@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app_icon.ico</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>translations/v_en_US.qm</file>
+        <file>translations/v_zh_HK.qm</file>
+        <file>translations/v_zh_TW.qm</file>
+        <file>translations/v_hi_IN.qm</file>
+        <file>translations/v_es_ES.qm</file>
+        <file>translations/v_fr_FR.qm</file>
+        <file>translations/v_ar_SA.qm</file>
+        <file>translations/v_bn_BD.qm</file>
+        <file>translations/v_pt_PT.qm</file>
+        <file>translations/v_ru_RU.qm</file>
+        <file>translations/v_ur_PK.qm</file>
+        <file>translations/v_id_ID.qm</file>
+        <file>translations/v_de_DE.qm</file>
+        <file>translations/v_ja_JP.qm</file>
+        <file>translations/v_mr_IN.qm</file>
+        <file>translations/v_te_IN.qm</file>
+        <file>translations/v_tr_TR.qm</file>
+        <file>translations/v_ta_IN.qm</file>
+        <file>translations/v_vi_VN.qm</file>
+        <file>translations/v_tl_PH.qm</file>
+        <file>translations/v_ko_KR.qm</file>
+        <file>translations/v_fa_IR.qm</file>
+        <file>translations/v_ha_NG.qm</file>
+        <file>translations/v_sw_KE.qm</file>
+        <file>translations/v_jv_ID.qm</file>
+        <file>translations/v_it_IT.qm</file>
+        <file>translations/v_pa_PK.qm</file>
+        <file>translations/v_kn_IN.qm</file>
+        <file>translations/v_gu_IN.qm</file>
+        <file>translations/v_th_TH.qm</file>
+        <file>translations/v_am_ET.qm</file>
+        <file>translations/v_yo_NG.qm</file>
+        <file>translations/v_my_MM.qm</file>
+        <file>translations/v_ps_AF.qm</file>
+        <file>translations/v_uk_UA.qm</file>
+        <file>translations/v_su_ID.qm</file>
+        <file>translations/v_pl_PL.qm</file>
+        <file>translations/v_uz_UZ.qm</file>
+        <file>translations/v_ml_IN.qm</file>
+        <file>translations/v_sd_PK.qm</file>
+        <file>translations/v_ro_RO.qm</file>
+        <file>translations/v_az_AZ.qm</file>
+        <file>translations/v_ku_TR.qm</file>
+        <file>translations/v_nl_NL.qm</file>
+        <file>translations/v_ig_NG.qm</file>
+        <file>translations/v_zu_ZA.qm</file>
+        <file>translations/v_cs_CZ.qm</file>
+        <file>translations/v_el_GR.qm</file>
+        <file>translations/v_hu_HU.qm</file>
+        <file>translations/v_sv_SE.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,35 @@
+# Qt/C++ Build Artifacts
+debug/
+release/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.exe
+*.stash
+*.user
+Makefile*
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+
+# Binaries and Libraries (Usually not committed)
+bin/
+
+# Inno Setup Output
+install/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+install/
+bin/*.exe
+bin/*.pdb
+*.log
+Thumbs.db
