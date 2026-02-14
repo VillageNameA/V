@@ -8,6 +8,11 @@
 - 简洁界面：无多余功能，专注音乐播放核心需求；
 - 本地文件管理：支持扫描指定文件夹、批量添加音乐。
 
+## 支持的系统版本
+- Windows 11：全部版本（21H2, 22H2, 23H2 等）；
+- Windows 10：1809 版本 (Build 17763) 及以上（依赖 Qt 6 所需的现代 Windows API）；
+- Windows Server：2019、2022 版本。
+
 ---
 
 # V - Lightweight Local Music Player
@@ -19,3 +24,8 @@ A lightweight and pure local music player designed for Windows, no ads, no bundl
 - Adapt to all Windows versions: compatible with Windows 10/11 (32/64-bit);
 - Simple interface: no redundant functions, focus on the core needs of music playback;
 - Local file management: support scanning specified folders and adding music in batches.
+
+## Supported System Versions
+- Windows 11: All versions (21H2, 22H2, 23H2, etc.);
+- Windows 10: Version 1809 (Build 17763) and above (depends on modern Windows API required by Qt 6);
+- Windows Server: 2019, 2022 versions.
